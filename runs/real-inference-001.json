@@ -1,0 +1,10 @@
+{
+  "run_id": "real-inference-001",
+  "status": "completed",
+  "provider": "Manus managed image runtime",
+  "model": "MODEL_GEMINI_2_5_FLASH_IMAGE_PREVIEW",
+  "aspect_ratio": "1:1",
+  "safety": "passed",
+  "prompt": "A minimal editorial still life of a cobalt ceramic cup on a pale stone table, soft morning light, realistic photography",
+  "output": "runs/real-inference-001.png"
+}
